@@ -1,0 +1,5 @@
+# Hugo gitignores
+/site/resources/
+/site/public/
+/site/themes/
+.hugo_build.lock
