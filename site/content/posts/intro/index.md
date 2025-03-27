@@ -12,6 +12,7 @@ categories = [
     "hugo",
 ]
 series = ["Hugo"]
+image = "images/hugo-title.svg"
 +++
 
 ## Blog header
